@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Embedded Images and PDFs in Markdown"
-author: "Bailey Groendyke"
+author: "Bailey Wagner"
 ---
 
 Ever wondered how to embed your PDFs or images in Markdown from your perfectly cloud-stored files? Look no futher, future-me! Here's a short guide for embedding your images and PDFs from Google Drive and Dropbox in your super cool webpage.
@@ -58,7 +58,7 @@ The code above will produce the following image:
 
 ### Images stored in Google Drive
 
-For Google Drive, each image has an ID. You'll use this *instead* of the shareable image link from Google. 
+For Google Drive, each image has an ID. You'll use this *instead* of the shareable image link from Google.
 
 The shareable link from Google:
 
@@ -115,7 +115,7 @@ This code is stolen straight from [Stack Overflow](https://stackoverflow.com/que
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-``` 
+```
 
 
 #### Example Code Layout
