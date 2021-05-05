@@ -6,7 +6,7 @@ permalink: /about/
 
 This is a blog about art and science.
 
-I have degrees in both physics and music. While most people question what one has to do with the other, I believe physics can describe the fundamentals of just about any topic, music included. I use the two together to approach my work in acoustics from both a scientific and artistic perspective.
+I have degrees in both physics and music (and am currently working on a Masters of Computer Science). While most people question what one has to do with the other, I believe physics can describe the fundamentals of just about any topic, music included. I use the two together, along with what I'm learning in Computer Science, to approach my work in acoustics from both a scientific, computational, and artistic perspective.
 
 ![Google Drive image couldn't load](https://drive.google.com/uc?id=1F2p0WoW9qcbtOIzff8OHKNyU44RBaBvD "Cat treat human learning software")
 
