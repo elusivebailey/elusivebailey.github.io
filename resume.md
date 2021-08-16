@@ -29,8 +29,13 @@ permalink: /resume/
 
 ## Professional Experience
 
-#### Data Analytics Intern, KCF Technologies - Remote
+#### Data Analytics Software Engineering Graduate Intern, KCF Technologies - Remote
 *June 2021 - August 2021*
+- Developed and tested a motion magnification algorithm in python following a research paper (Eulerian Video Magnification, Wu et. al., 2012), resulting in an estimated 10x ROI
+- Created and presented detailed documentation, results, and competitor product comparisons
+- Awarded the Future Innovator: 2021 KCF Influential Innovator Award for outstanding work
+
+  ![KCF Test Fan Motion Magnified](https://media0.giphy.com/media/O7fYcTKn4rffHv0EsQ/giphy.gif?cid=790b7611cacb948c77b7dec0a3b6b486edcc668f89dde77b&rid=giphy.gif&ct=g)
 
 
 #### Acoustic Innovation Applications Engineer, Steelcase - Grand Rapids, MI
