@@ -11,7 +11,7 @@ permalink: /resume/
 
 ## Education
 
-| **Master of Science in Computer Science**             |   | Anticipated Graduation: Summer 2022 |
+| **Master of Science in Computer Science**             |   | August 2022 |
 | Georgia Institute of Technology                       |   |                                     |
 |                                                       |   |                                     |
 | **Bachelor of Science in Physics**                    |   | August 2017                         |
@@ -28,6 +28,14 @@ permalink: /resume/
 
 
 ## Professional Experience
+
+#### Software Engineer, Microsoft - Remote
+*November 2022 - Present*
+- Windows Shell, Platform, and Workflow Engineering
+
+#### Software Engineering Intern, Microsoft - Remote
+*June 2022 - September 2022*
+- Windows Shell Engineering
 
 #### Data Analytics Software Engineering Graduate Intern, KCF Technologies - Remote
 *June 2021 - August 2021*
@@ -72,7 +80,7 @@ recommendations for improvements to the spaces
 
 
 ## Skills
-**Software Programming Experience:**​ Python, Java, C/C++, LabVIEW, Arduino, Raspberry Pi, MATLAB,
+**Software Programming Experience:**​ Python, Java, C/C++, WinRT/C++, LabVIEW, Arduino, Raspberry Pi, MATLAB,
 Markdown, Android Studios Apps, Human Computer Interaction (HCI), Computational Photography, OpenCV, Pandas, Data Analysis, PyAudio, PortAudio
 
 **Web Development:** ​CSS, HTML, JavaScript
@@ -83,6 +91,17 @@ Markdown, Android Studios Apps, Human Computer Interaction (HCI), Computational 
 
 
 ## Research Experience
+
+#### Georgia Institute of Technology Robotic Musicianship Research Group
+*Spring 2021*
+
+- Created automatic pop music transcription generator that input a pop music mp3 file
+and output a midi piano file with generated playback into an mp3 file
+
+*Spring 2022*
+
+- Developed more robust accompaniment for the pop music transcription algorithm
+that made use of typical piano accompaniment styles at different densities and complexities
 
 #### GVSU Physics Senior Capstone
 *August 2016 - May 2017*
